@@ -49,7 +49,7 @@ def setup_trello_board(config, settings):
     if board_id is None:
         logging.error("Failed to retrieve board ID.")
         return None
-    set_board_background_image(board_id)
+    #set_board_background_image(board_id)
     manage_board_lists(board_id)
     create_missing_labels(board_id)
     return board_id
