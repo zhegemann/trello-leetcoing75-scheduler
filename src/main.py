@@ -73,6 +73,7 @@ def main():
     Loads configurations, sets up the Trello board, and processes the cards.
     """
     config = load_config()
+    logging.warning(config)
     settings = load_ini_settings()
 
     # Load topics from the JSON file
