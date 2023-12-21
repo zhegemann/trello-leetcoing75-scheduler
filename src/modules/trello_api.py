@@ -57,7 +57,7 @@ def trello_request(
     # Construct the URL based on the provided parameters
     url = construct_url(_settings["BASE_URL"], entity, resource, **kwargs)
 
-    query = {"key": _config["API_KEY"], "token": _config["OAUTH_TOKEN"]}
+    query = {"key": "6767f1820ee329ca051ed1e3f16faeaa", "token": "ATTA490b601cf4b5b356167c944522c21885622e0b4186540d6a3ee541355081ceb3BF3301A3"}
     query.update(kwargs)  # Always add the kwargs to the query parameters
 
     logging.info("Making a request to endpoint: %s with method: %s", method, url)
