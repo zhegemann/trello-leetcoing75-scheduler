@@ -85,6 +85,14 @@
     ],
     "Hash Map and Set": [
         {
+            "title": "Contains Duplicate",
+            "difficulty": "Easy"
+        },
+        {
+            "title": "Valid Anagram",
+            "difficulty": "Easy"
+        },
+        {
             "title": "Find the Difference of Two Arrays",
             "difficulty": "Easy"
         },
