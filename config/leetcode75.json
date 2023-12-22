@@ -105,6 +105,14 @@
             "difficulty": "Medium"
         },
         {
+            "title": "Minimum Window Substring",
+            "difficulty": "Hard"
+        },
+        {
+            "title": "Sliding Window Maximum",
+            "difficulty": "Hard"
+        },
+        {
             "title": "Longest Subarray of 1's After Deleting One Element",
             "difficulty": "Medium"
         }
@@ -195,6 +203,10 @@
             "difficulty": "Medium"
         },
         {
+            "title": "Car Fleet",
+            "difficulty": "Hard"
+        },
+        {
             "title": "Decode String",
             "difficulty": "Medium"
         }
@@ -251,6 +263,14 @@
             "difficulty": "Easy"
         },
         {
+            "title": "Merge K Sorted Lists",
+            "difficulty": "Hard"
+        },
+        {
+            "title": "Reverse Nodes In K Group",
+            "difficulty": "Hard"
+        },
+        {
             "title": "Maximum Twin Sum of a Linked List",
             "difficulty": "Medium"
         }
@@ -295,6 +315,62 @@
         {
             "title": "Search in a Binary Search Tree",
             "difficulty": "Easy"
+        },
+        {
+            "title": "Maximum Depth of Binary Tree",
+            "difficulty": "Easy"
+        },
+        {
+            "title": "Diameter of Binary Tree",
+            "difficulty": "Easy"
+        },
+        {
+            "title": "Balanced Binary Tree",
+            "difficulty": "Easy"
+        },
+        {
+            "title": "Same Tree",
+            "difficulty": "Easy"
+        },
+        {
+            "title": "Subtree of Another Tree",
+            "difficulty": "Easy"
+        },
+        {
+            "title": "Invert Binary Tree",
+            "difficulty": "Easy"
+        },
+        {
+            "title": "Lowest Common Ancestor of a Binary Search Tree",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Binary Tree Level Order Traversal",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Validate Binary Search Tree",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Kth Smallest Element In a Bst",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Kth Smallest Element In a Bst",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Construct Binary Tree From Preorder And Inorder Traversal",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Binary Tree Maximum Path Sum",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Serialize And Deserialize Binary Tree",
+            "difficulty": "Medium"
         },
         {
             "title": "Delete Node in a BST",
@@ -361,10 +437,6 @@
             "difficulty": "Medium"
         },
         {
-            "title": "Koko Eating Bananas",
-            "difficulty": "Medium"
-        },
-        {
             "title": "Find Minimum In Rotated Sorted Array",
             "difficulty": "Medium"
         },
@@ -383,6 +455,10 @@
         {
             "title": "Find Peak Element",
             "difficulty": "Medium"
+        },
+        {
+            "title": "Median of Two Sorted Arrays",
+            "difficulty": "Hard"
         },
         {
             "title": "Koko Eating Bananas",
