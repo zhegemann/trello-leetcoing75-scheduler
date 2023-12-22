@@ -67,6 +67,10 @@
             "difficulty": "Medium"
         },
         {
+            "title": "Trapping Rain Water",
+            "difficulty": "Hard"
+        },
+        {
             "title": "Max Number of K-Sum Pairs",
             "difficulty": "Medium"
         }
