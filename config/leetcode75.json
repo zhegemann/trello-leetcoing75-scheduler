@@ -43,8 +43,24 @@
             "difficulty": "Easy"
         },
         {
+            "title": "Valid palindrome",
+            "difficulty": "Easy"
+        },
+        {
             "title": "Is Subsequence",
             "difficulty": "Easy"
+        },
+        {
+            "title": "Container With Most Water",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Two Sum II Input Array Is Sorted",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "3Sum",
+            "difficulty": "Medium"
         },
         {
             "title": "Container With Most Water",
@@ -61,7 +77,23 @@
             "difficulty": "Easy"
         },
         {
+            "title": "Best Time to Buy And Sell Stock",
+            "difficulty": "Easy"
+        },
+        {
             "title": "Maximum Number of Vowels in a Substring of Given Length",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Longest Substring Without Repeating Characters",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Longest Repeating Character Replacement",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Permutation In String",
             "difficulty": "Medium"
         },
         {
@@ -105,6 +137,22 @@
             "difficulty": "Medium"
         },
         {
+            "title": "Group Anagrams",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Top K Frequent Elements",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Valid Sudoku",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Longest Consecutive Sequence",
+            "difficulty": "Medium"
+        },
+        {
             "title": "Equal Row and Column Pairs",
             "difficulty": "Medium"
         }
@@ -115,7 +163,31 @@
             "difficulty": "Medium"
         },
         {
+            "title": "Valid Parentheses",
+            "difficulty": "Easy"
+        },
+        {
             "title": "Asteroid Collision",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Min Stack",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Evaluate Reverse Polish Notation",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Generate Parentheses",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Daily Temperatures",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Car Fleet",
             "difficulty": "Medium"
         },
         {
@@ -136,6 +208,34 @@
     "Linked List": [
         {
             "title": "Delete the Middle Node of a Linked List",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Merge Two Sorted Lists",
+            "difficulty": "Easy"
+        },
+        {
+            "title": "Remove Nth Node From End of List",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Copy List With Random Pointer",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Add Two Numbers",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Linked List Cycle",
+            "difficulty": "Easy"
+        },
+        {
+            "title": "Find the Duplicate Number",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "LRU Cache",
             "difficulty": "Medium"
         },
         {
@@ -247,6 +347,30 @@
         {
             "title": "Guess Number Higher or Lower",
             "difficulty": "Easy"
+        },
+        {
+            "title": "Binary Search",
+            "difficulty": "Easy"
+        },
+        {
+            "title": "Search a 2D Matrix",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Koko Eating Bananas",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Find Minimum In Rotated Sorted Array",
+            "difficulty": "Medium"
+        },
+        {
+            "title": "Search In Rotated Sorted Array",
+            "difficulty": "Medium"
+        },      
+        {
+            "title": "Time Based Key Value Store",
+            "difficulty": "Medium"
         },
         {
             "title": "Successful Pairs of Spells and Potions",
